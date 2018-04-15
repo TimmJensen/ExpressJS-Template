@@ -1,2 +1,1 @@
-# ExpressJS-Template
-ExpressJS-Template - EJS som View Engine - Med Login
+# Omskrevet eksempel på et login
